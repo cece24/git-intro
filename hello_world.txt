@@ -1,3 +1,4 @@
 Hello Team Robocop!
 This change was made locally
+This file is now added to the Github repo
 Added on Github.
